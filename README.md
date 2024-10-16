@@ -21,7 +21,9 @@ Unlike the original paper, which used cryptocurrency data, we used **historical 
 - The **CNN model** nearly doubled the initial wealth, showing superior performance compared to the RNN.
 
 ## Authors:
-This project was a team effort of Alexis Viau-Cardinal (AlexisViauCardinal) and Hanna Yurchyk (@hannayurchyk). 
+This project was a team effort of Alexis Viau-Cardinal and Hanna Yurchyk.
+- [@AlexisViauCardinal](https://github.com/AlexisViauCardinal)
+- [@hannayurchyk](https://github.com/hannayurchyk)
 
 ## References:
 [1] Z. Jiang, D. Xu, and J. Liang, “A deep reinforcement learning framework for the financial portfolio management problem,” 2017.  
