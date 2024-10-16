@@ -20,7 +20,8 @@ Unlike the original paper, which used cryptocurrency data, we used **historical 
 - Both the CNN and RNN-based agents outperformed the baseline.
 - The **CNN model** nearly doubled the initial wealth, showing superior performance compared to the RNN.
 
-This project was a collaborative effort, with each team member contributing equally over time.
+## Authors:
+This project was a team effort of Alexis Viau-Cardinal (AlexisViauCardinal) and Hanna Yurchyk (@hannayurchyk). 
 
 ## References:
 [1] Z. Jiang, D. Xu, and J. Liang, “A deep reinforcement learning framework for the financial portfolio management problem,” 2017.  
