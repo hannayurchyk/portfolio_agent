@@ -12,7 +12,7 @@ Portfolio Vector Memory (PVM), an Online Stochastic Batch Learning (OSBL) ap-
 proach, a stochastic gradient ascend, and a fully exploiting and explicit logarithmic
 reward function. Furthermore, we considered the application of a transaction fee,
 fixed at 0.25%. Contrary to the cryptocurrency dataset used by Jiang, and al., we
-trained and tested our agent on the historical stock data from 1 April 2018 to 1 April
+trained and tested our agent on the historical stock data [2] from 1 April 2018 to 1 April
 2020 on 10 pre-selected assets based on their trading popularity. We compared the
 performance of our models to the average stock performance baseline. Our results
 showed that the agent could beat the baseline in both cases, with the CNN function
@@ -21,3 +21,6 @@ contributed to the project since the progress was done as a group over time.
 
 [1] Z. Jiang, D. Xu, and J. Liang, “A deep reinforcement learning framework for the financial
 portfolio management problem,” 2017.
+
+[2] O. Onyschak, “Stock market dataset,” 2020. Available: https://www.kaggle.com/
+datasets/jacksoncrow/stock-market-dataset
